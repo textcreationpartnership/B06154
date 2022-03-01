@@ -1,0 +1,365 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the supreme authority, the Parliament of the Commonwealth of England. The humble petition of the owners and commoners of the town of Islelham [sic] in the county of Cambridge.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06154</idno>
+            <idno type="STC">Wing T1748A</idno>
+            <idno type="STC">ESTC R185349</idno>
+            <idno type="EEBO-CITATION">53299327</idno>
+            <idno type="OCLC">ocm 53299327</idno>
+            <idno type="VID">180053</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06154)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180053)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2811:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the supreme authority, the Parliament of the Commonwealth of England. The humble petition of the owners and commoners of the town of Islelham [sic] in the county of Cambridge.</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1652?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: cropped, stained, tightly bound with some loss of text.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bedford, William Russell, --  Duke of, 1613-1700 --  Trials, litigation, etc. --  Sources.</term>
+               <term>Isleham (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:180053:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 97 -->
+            <head>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Supreme Authority, the Parliament of the Commonwealth of ENGLAND.</head>
+            <head type="sub">The humble Petition of the Owners and Commoners of the Town of <hi>Iſlelham</hi> in the County of <hi>Cambridg.</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>Hat the Earl of <hi>Bedford, Edward Ruſſel</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Robert Henly</hi> 
+               <abbr>Eſq</abbr> and <hi>Robert Caſtle</hi> 
+               <abbr>Eſq</abbr> in truſt for the Earl of <hi>Bedfords</hi> 
+               <gap reason="illegible: in gutter" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>cipants and adventurers by vertue of a late Act of Parliament, <gap reason="illegible: in gutter" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>nd they have drained your Petitioners Fens, conſiſting of a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap> 2500 acres; and by an Adjudication, as we are informed by <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me of the Commiſſioners mentioned in the ſaid Act, have Ditch<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut to themſelves about 930 acres of your Petitioners ſaid Fens, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are in poſſeſſion thereof.</p>
+            <p n="1">1. Your Petitioners wil make it appear unto your Honors, That, <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ntrary to the Law of God) by the ſaid Act parties intereſſed are <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>cted Judges.</p>
+            <p n="2">2. That the ſaid Act is deſtructive to Propriety; for, by it, the <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>mmiſſioners (who for ought we know are Judges and Parties) <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> impowred to take away our Eſtates without our conſents, and <gap reason="illegible: in gutter" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>ſt it.</p>
+            <p n="3">3. It enacts impoſſibilities, and falſities, as, that land to be drain<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> which was never drowned, and that hurtfully ſurrounded which <gap reason="illegible: in gutter" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>ettered by overflowing.</p>
+            <p n="4">4. We have not been uſed like Engliſh-men, for contrary to the <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ndamental Laws of the Land, we are diſſeiſed of our Free-holds, <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ard by our witneſſes upon Oath, or by view, or by Juries of the <gap reason="illegible: in gutter" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>hbourhood.</p>
+            <pb facs="tcp:180053:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 96 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <p>
+               <pb facs="tcp:180053:3"/>
+               <!-- PDF PAGE 98 -->
+In the beginning of <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e laſt P<gap reason="illegible: damage" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ment, when very few of th<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Members were ingaged in this project. In their firſt and grand Re<g ref="char:EOLhyphen"/>monſtrance 1641. In the like Caſe, this draining of us by forc<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was declared, <hi>An Injuſtice, oppreſſion, violence, project and gri<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>vance,</hi> and in more expreſs words, Thus, large quantities of Com<g ref="char:EOLhyphen"/>mons, and Severals have been taken away from the Subject by co<g ref="char:EOLhyphen"/>lour of the Statute of Improvement, and by the abuſe of the Comiſ<g ref="char:EOLhyphen"/>ſion of Sewers, without their conſents, and againſt it: yet this late Act for Draining hath ratified and confirmed all thoſe agrievance<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and oppreſſions which the people ſuffered concerning draining in the Kings time. The cauſe of all this is plain and clear; which was, becauſe there were ſo many Parliament men parties intereſſed when the ſaid Act was paſſing.</p>
+            <p>
+               <hi>The Premiſes conſidered, the humble deſires of your Petitioners are,</hi>
+               <list>
+                  <item>1. That we may enjoy our Proprieties, and that (according to the Sta<g ref="char:EOLhyphen"/>tute of Improvement of <hi>43 Eliz. Cap. 11.</hi> wherein is proviſio<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> made ſufficient for any undertaking for draining whatſoever your Petitioners may be at liberty to make the beſt of their own<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> And that you will be pleaſed to conſider of our Exceptions againſ<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> The late Act for Draining, for the repealing thereof, which w<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> humbly tender herewith unto your Honours.</item>
+                  <item>2. That our adverſaries may not be enabled by their illegal poſſeſſ<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>on of our Eſtates, to wage Law with us with our own Revenue<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> by receiving this Summers profit of our ſaid Fens. For preve<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tion whereof, we humbly crave your Honors Order for our ſpeed<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> re-poſſeſſion of our ſaid Grounds, having already received <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> leaſt 500 l. damage by the undertakers pernicious new Ditches <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> our ſaid Fens.</item>
+               </list>
+            </p>
+            <closer>
+               <hi>And your Petitioners ſhall pray,</hi> &amp;c.</closer>
+         </div>
+         <div type="document">
+            <pb n="3" facs="tcp:180053:3"/>
+            <!-- PDF PAGE 98 -->
+            <head>Exceptions taken to a late Act of Parliament, intituled <hi>An Act for the Draining the great Level of the Fens.</hi>
+            </head>
+            <p>THe firſt Exception is againſt the Title of the Act, <hi>viz. An Act for Draining the great Level of the Fens, extending it ſelf,</hi> &amp;c</p>
+            <p>There are many fallacies couched under this word <hi>Level.</hi> Firſt it is an <hi>equivocal</hi> word, and hath two ſignifications.</p>
+            <p>As fiſt, the great Level, ſignifies a bare flat, whether dry or drowned.</p>
+            <p>The undertakers cannot mean dry land; for how can that Land be drained which was never drowned? Therefore by the Under<g ref="char:EOLhyphen"/>takers meaning, it muſt be ſuch Land as is really hurtfully ſurroun<g ref="char:EOLhyphen"/>ded, which are 300000 acres.</p>
+            <p>The next fallacie in the word <hi>Level,</hi> is, begging of the Queſti<g ref="char:EOLhyphen"/>on. Taking for granted that 300000 acres are the Level hurtfully ſurrounded; which in truth are not.</p>
+            <p>The third fallacie is, the ignorance of a contradiction. As it is the great Level; and not the great Level in divers reſpects.</p>
+            <p>As firſt it is a great Flat or Level, but not ſuch a one as is hurtfully ſurrounded; for it will be proved many thouſands of acres were never drowned, thouſands of acres not hurtfully ſurroun<g ref="char:EOLhyphen"/>ded, but bettered by overflowing: thouſands of acres are Oſier, Reed, Sedg. So deduct the premiſed Land, the great Level will be much leſſened.</p>
+            <p>The fourth fallacie in the word Level, is joyning ſuch Lands together, that ought to be devided, or calling Good Evill, and Evil Good. As calling dry ground, and Land bettered by o<g ref="char:EOLhyphen"/>verflowing, the Level, or hurtfully ſurrounded, which words are convertible.</p>
+            <p>As for inſtance, in the Town of <hi>Iſleham,</hi> which contain 2500. acres of Fens, we have 1200 acres dry Land, and another conſide<g ref="char:EOLhyphen"/>rable
+<pb n="4" facs="tcp:180053:4"/>
+               <!-- PDF PAGE 99 -->part of the ſaid Fens are bettered by overflowing. Ye<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Undertakers take 930 acres out of the 2500 acres for draining<g ref="char:punc">▪</g> So being Judges and parties, the Undertakers have mis-ſtated the Level.</p>
+            <p>The ſecond Exception is againſt the Preamble of the ſaid Act, <hi>viz.</hi>
+            </p>
+            <p>Whereas the ſaid great Level by reaſon of overflowing of the Rivers of, &amp;c. have been of ſmall, and uncertain profit; but (if drained) may be improved.</p>
+            <p>The Undertakers take it for granted, the great Level is little worth, becauſe it is hurtfully ſurrounded, as they falſely ſuggeſt. Thoſe who live in the Fens and are neighbours to them, know the contrary.</p>
+            <p>For firſt, The Fens breed infinite numbers of Horſes, Mares and Colts, and all ſorts of other Cattel; and the Horſes and Mares are kept on our Fens in Summer, which till our Land.</p>
+            <p>Secondly, We breed and feed great ſtore of young Cattel, as Calves and Buds which are yearlings; and wee keep great Dai<g ref="char:EOLhyphen"/>ries, which afford great ſtore of Butter and Cheeſe, and multi<g ref="char:EOLhyphen"/>tudes of Heifers, and other Cattel are fatted on our Fens which afford Hides and Tallow.</p>
+            <p>Thirdly, We Mow off our Fens, Fother which feeds our Neat in Winter, which being houſed, we gather ſuch quantities of Compoſt or Dung, that it inriches our Paſtures and Corn-ground, half in half.</p>
+            <p>Fourthly, We keep great Flocks of Sheep.</p>
+            <p>Fifthly, Our Fens are a great relief in a dry Summer, not only to the Uplanders of our own, but neighbour Countries, which o<g ref="char:EOLhyphen"/>therwiſe thouſands of Cattel would periſh.</p>
+            <p>Sixthly, We have great ſtore of Oſier, Reed and Sedg, which are ſuch necſſaries as the Countries cannot want them for many uſes, and ſets many poor on work.</p>
+            <p>Laſtly, We have many thouſand Cottagers which live on our
+<pb n="5" facs="tcp:180053:4"/>
+               <!-- PDF PAGE 99 -->Fens, which have no right of Common, which we connive at, other<g ref="char:EOLhyphen"/>wiſe they would go a begging; So that if the Undertakers take away a third part of our Fens, they deſtroy our Paſtures and Corn<g ref="char:EOLhyphen"/>ground, and leſſen our Revenues proportionably.</p>
+            <p>What is Cole-Seed, Rape and Hemp? they are but Dutch Commodities, and but traſh and trumpery, and pils land, in reſpect of the fore-cited Commodities, which are the rich Ore of the Commonwealth.</p>
+            <p>The third Exception is againſt what is enacted to be the parti<g ref="char:EOLhyphen"/>cular bounds and limits of the great Level, much of which we can prove is not the Level, or hurtfully ſurrounded. As more at large in the firſt Exception (which we referre our ſelves unto) it may may appear.</p>
+            <p>Another conſideration for the paſſing this Act is, That the Earl of <hi>Bedford</hi> in the 13 year of King <hi>Charls,</hi> had 95000 acres de<g ref="char:EOLhyphen"/>creed to him out of the ſaid Level.</p>
+            <p>
+               <hi>Exception.</hi> This Decree was procured by bribing the King with 12000 acres, and in it ſelf was illegal, for they never had our con<g ref="char:EOLhyphen"/>ſents according to the 4.3. <hi>Eliz.</hi>
+            </p>
+            <p>It is further alleadged, That the Earl and his participants had made a good progreſs therein.</p>
+            <p>
+               <hi>Exception.</hi> The only progreſſe they made, was to devide the 95000 acres by ſhares and Lots; for it was found by a Jury at <hi>Hun<g ref="char:EOLhyphen"/>tington,</hi> 14 <hi>Car.</hi> that the ſaid Earl and his participants had not me<g ref="char:EOLhyphen"/>liorated the ſaid Fens.</p>
+            <p>Whereas it is ſuggeſted, that by reaſon of ſome interruptions, the intended benefit of the Commonwealth hath been prevented and delayed.</p>
+            <p>
+               <hi>Exception.</hi> The interruptions they received were their own fears to proceed, becauſe their undertakings in the beginning of the laſt Parliament 1641. were declared againſt.</p>
+            <p>By the Act, Breaches by inevitable accidents, are in convenient time to be repaired and made good.</p>
+            <p>
+               <pb n="6" facs="tcp:180053:5"/>
+               <!-- PDF PAGE 100 -->
+               <hi>Exception.</hi> The Undertakers may do what they pleaſe in conve<g ref="char:EOLhyphen"/>nient t<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me, a<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in the mean time who ſhall pay for the peoples ſuf<g ref="char:EOLhyphen"/>fering<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? The Commiſſioners may Judge every great floud an ine<g ref="char:EOLhyphen"/>vitable accident, ſo they will do nothing for the 95000 acres if they except flouds, which is the only cauſe ſome lands are hurtful<g ref="char:EOLhyphen"/>ly ſurrounded.</p>
+            <p>By the Act the Undertakers may leave 15000 acres for beds and receptacles for water, beſides meres, pools, and channels.</p>
+            <p>
+               <hi>Exception.</hi> Under this pretence they may drain the Earl of <hi>Bed<g ref="char:EOLhyphen"/>fords</hi> hurtfully ſurrounded Lands, as <hi>Thorney Abby</hi> and <hi>Wittleſey,</hi> and make his neighbours Lands which are dry, or bettered by over<g ref="char:EOLhyphen"/>flowing, the receptacles for water.</p>
+            <p>By the Act, no Commiſſioner or Commiſſioners of Sewers are to intermeddle, <hi>&amp;c.</hi>
+            </p>
+            <p>Note, what extraordinary care is taken to obſtruct all legal Com<g ref="char:EOLhyphen"/>miſſions of Sewers.</p>
+            <p>By the Act, if we be agrieved, we have no remedy but to appeal to the Commiſſioners, and that in the Temple-Hall <hi>London,</hi> the ſeaventh day after every Term.</p>
+            <p>
+               <hi>Exception.</hi> Upon our complaint there <hi>July</hi> 6. 1653. we found no redreſſe of our agrievance.</p>
+            <p>By the Act, the Commiſſioners have power by view, or other<g ref="char:EOLhyphen"/>wiſe, to adjudge and give livery and ſi<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſin of our Eſtates.</p>
+            <p>
+               <hi>Except.</hi> This they have done without hearing of us.</p>
+            <p>By the Act, the Commiſſioners have power at diſcretion to make our lands which they ſhall adjudge improved, though not within the pretended Level, to be contributory to the Undertakers.</p>
+            <p>
+               <hi>Except.</hi> By this, no man knows whether his Eſtate be free or no.</p>
+            <p>The Parliament by the Act Declares, That in the adjudication, care ſhall be taken, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Except.</hi> But there was no care taken, and therefore we appeal to the Parliament.</p>
+            <p>By the Act, <hi>Thorney Abby</hi> excepted.</p>
+            <p>
+               <hi>Ex.</hi> It is part of the Level, and hurtfully ſurrounded.</p>
+            <p>
+               <pb n="7" facs="tcp:180053:5"/>
+               <!-- PDF PAGE 100 -->
+The Act repeals two Laws or Decrees of Sewers <hi>(viz.)</hi> 19 <hi>Jac.</hi> 
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d 14 <hi>Caroli.</hi>
+            </p>
+            <p>
+               <hi>Ex.</hi> They were illegal, therefore in themſelves nul.</p>
+            <p>In the Act there are many Commiſſioners named, whereof ſome <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nnot act: many that have not acted; and ſome of thoſe who have <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ted, whoſe names we know not, have put us out of poſſeſſion of <gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>0 acres of our ſaid Fens (unheard) by adjudging thoſe Lands <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ined, which were never drowned; and thoſe hurtfully ſurround<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, which are bettered by overflowing. And thoſe Commiſſioners, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> humbly conceive, we have juſt cauſe to except againſt.</p>
+            <p>This Act for draining us without our conſents and againſt it, is <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ogether unreaſonable and unneceſſary.</p>
+            <p>Firſt by depriving us of the benefit of our legal Commiſſions of <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>wers according to the 23 of <hi>H.</hi> 8. <hi>C.</hi> 5. whereby each County <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their own Commiſſioners and Jurors, and every man was com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ed once or twice every year, to ſcoure his part of the old drains <gap reason="illegible: in gutter" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>ing the natural ſinks of the Fens) to their widneſſe and depths: <gap reason="illegible: in gutter" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>ch Law, were it put in execution, there would very little Land <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urtfully ſurrounded.</p>
+            <p>Secondly by the Statute of Improvement of 43 <hi>Eliz. C.</hi> 11. <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>re is proviſion made ſufficient for draining by way of underta<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>g, which is to be by contract between the major part of the ow<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s and Commoners, and the Undertakers, by writing indented <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>der their hands and Seals; and the Undertaker is to lay claim nothing, but what he hath ſo contracted for. See the Statute.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:180053:6"/>
+            <!-- PDF PAGE 101 -->
+            <pb facs="tcp:180053:6"/>
+            <!-- PDF PAGE 101 -->
+         </div>
+      </body>
+   </text>
+</TEI>
